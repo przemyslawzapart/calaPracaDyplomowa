@@ -1,0 +1,11 @@
+G:\github\PracaDyplomowaCalyProjekt\symulacja sygnalow Windows\bin\Debug\symulacja sygnalow Windows.exe.config
+G:\github\PracaDyplomowaCalyProjekt\symulacja sygnalow Windows\bin\Debug\symulacja sygnalow Windows.exe
+G:\github\PracaDyplomowaCalyProjekt\symulacja sygnalow Windows\bin\Debug\symulacja sygnalow Windows.pdb
+G:\github\PracaDyplomowaCalyProjekt\symulacja sygnalow Windows\obj\Debug\symulacja sygnalow Windows.csproj.AssemblyReference.cache
+G:\github\PracaDyplomowaCalyProjekt\symulacja sygnalow Windows\obj\Debug\symulacja sygnalow Windows.csproj.SuggestedBindingRedirects.cache
+G:\github\PracaDyplomowaCalyProjekt\symulacja sygnalow Windows\obj\Debug\symulacja_sygnalow_Windows.Form1.resources
+G:\github\PracaDyplomowaCalyProjekt\symulacja sygnalow Windows\obj\Debug\symulacja_sygnalow_Windows.Properties.Resources.resources
+G:\github\PracaDyplomowaCalyProjekt\symulacja sygnalow Windows\obj\Debug\symulacja sygnalow Windows.csproj.GenerateResource.cache
+G:\github\PracaDyplomowaCalyProjekt\symulacja sygnalow Windows\obj\Debug\symulacja sygnalow Windows.csproj.CoreCompileInputs.cache
+G:\github\PracaDyplomowaCalyProjekt\symulacja sygnalow Windows\obj\Debug\symulacja sygnalow Windows.exe
+G:\github\PracaDyplomowaCalyProjekt\symulacja sygnalow Windows\obj\Debug\symulacja sygnalow Windows.pdb

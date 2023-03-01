@@ -1,0 +1,15 @@
+# kontroler build property overrides
+#
+
+incoming data
+	1. set new time
+	2. set new serie number
+	3. set new sensor settings
+
+	get:
+	1. date time
+	2. sensor name
+	3. get serial number
+
+
+
